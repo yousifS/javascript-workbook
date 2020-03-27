@@ -18,5 +18,6 @@ const theOtherString = "11";
 const theOtherNumber = parseInt(theOtherString, 10);
 console.log("The otherString type is", (typeof theOtherString));
 console.log("The theOtherNumber type is", (typeof theOtherNumber));
+    
 
 
